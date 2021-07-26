@@ -1,0 +1,63 @@
+satellite 1       Aabad society      3BHK 68LAKHS 
+satellite 2       Shivam serene      3BHK 65LAKHS 
+satellite 3       Pushkar residency  3BHK 60LAKHS
+satellite 4       Prayag park        2BHK 60LAKHS
+satellite 5       Mansi appartments  2BHK 55LAKHS 
+satellite 6       Swapnil heights    2BHK 51LAKHS 
+satellite 7       Copper stone       4BHK 1.15CRORES 
+satellite 8       Suyog serene       4BHK 1.11CRORES 
+satellite 9       Shaligram plush    4BHK 1.8CRORES 
+satellite 10      Mapple tree        3BHK 1.2CRORES 
+satellite 11      Zodiac aarish      3BHK 98LAKHS 
+satellite 12      Sharanya beleview  3BHK 85LAKHS
+
+thaltej 1   Ratnakar heights         3BHK 1.2CRORES
+thaltej 2   Pushkar residency        3BHK 1.2CRORES
+thaltej 3   pratishtha appartments   3BHK 1.2CRORES
+thaltej 4   shivam park              3BHK 1.2CRORES
+thaltej 5   prashil park             3BHK 1.2CRORES
+thaltej 6   krishna heights          3BHK 1.2CRORES
+thaltej 7   meet homes               3BHK 1.2CRORES
+thaltej 8   ganesh housing 			 3BHK 1.2CRORES
+thaltej 9   Mapple tree        		 3BHK 1.2CRORES 
+thaltej 10  Zodiac aarish            3BHK 98LAKHS 
+thaltej 11  Sharanya beleview        3BHK 85LAKHS
+
+
+
+bopal 1      Pushkar residency  1BHK 38LAKHS
+bopal 2      Prayag park        1BHK 35LAKHS
+bopal 3      Mansi appartments  2BHK 55LAKHS 
+bopal 4      Swapnil heights    2BHK 51LAKHS 
+bopal 5      Copper stone       4BHK 1.15CRORES 
+bopal 6      Suyog serene       4BHK 1.11CRORES 
+bopal 7      Shaligram plush    4BHK 1.8CRORES 
+bopal 8      Mapple tree        3BHK 1.2CRORES 
+bopal 9      Zodiac aarish      3BHK 98LAKHS 
+bopal 10     Sharanya beleview  3BHK 85LAKHS 
+
+maninagar 1       Aabad society      1BHK 68LAKHS 
+maninagar 2       Shivam serene      1BHK 65LAKHS 
+maninagar 3       Pushkar residency  2BHK 60LAKHS
+maninagar 4       Prayag park        2BHK 60LAKHS
+maninagar 5       Mansi appartments  3BHK 55LAKHS 
+maninagar 6       Swapnil heights    4BHK 51LAKHS 
+maninagar 7       Copper stone       4BHK 1.15CRORES 
+maninagar 8       Suyog serene       4BHK 1.11CRORES 
+maninagar 9       Shaligram plush    4BHK 1.8CRORES 
+maninagar 10      Mapple tree        3BHK 1.2CRORES 
+maninagar 11      Zodiac aarish      3BHK 98LAKHS 
+maninagar 12      Sharanya beleview  3BHK 85LAKHS 
+
+ranip 1      Pushkar residency  1BHK 38LAKHS
+ranip 2      Prayag park        1BHK 35LAKHS
+ranip 3      Mansi appartments  2BHK 55LAKHS 
+ranip 4      Swapnil heights    2BHK 51LAKHS 
+ranip 5      Copper stone       3BHK 1.15CRORES 
+ranip 6      Suyog serene       3BHK 1.11CRORES 
+ranip 7      Shaligram plush    3BHK 1.8CRORES 
+ranip 8      Mapple tree        4BHK 1.2CRORES 
+ranip 9      Zodiac aarish      4BHK 98LAKHS 
+ranip 10     Sharanya beleview  4BHK 85LAKHS 
+
+
